@@ -1,5 +1,6 @@
 mail.ru
 lenta.ru
 beeec.com
-...
+.....
 lepta.net
+plist
