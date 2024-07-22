@@ -2,5 +2,7 @@ mail.ru
 lenta.ru
 beeec.com
 chefrtgkdf
-lepta.net
 ekrbvkerv
+..
+lepta.net
+plist
