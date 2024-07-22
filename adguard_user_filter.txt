@@ -6,10 +6,12 @@
 ! Hide warning
 testcases.agrd.dev,surge.sh###subscribe-to-test-generichide-rules-filter
 ! Test case: generichide
+devtest.com
 testcases.agrd.dev,surge.sh###case-1-generichide > .test-banner
 ###case-1-generichide > .test-banner1
 @@||testcases.agrd.dev$generichide
 @@||surge.sh$generichide
+||@@wkdsi.net
 ! Test case: generichide rule and js rules
 testcases.agrd.dev#%#window.document.addEventListener('DOMContentLoaded', function () { document.querySelector('#case-1-generichide > .test-banner1').style.width='200px' });
 surge.sh#%#window.document.addEventListener('DOMContentLoaded', function () { document.querySelector('#case-1-generichide > .test-banner1').style.width='200px' });

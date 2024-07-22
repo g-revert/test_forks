@@ -19,7 +19,7 @@ if (location.href.indexOf("tbm=isch") !== -1) // NOTE: Don't run on image search
     return;
 if (window.top !== window.self) // NOTE: Do not run on iframes
     return;
-
+else if
 const centerElement = "#center_col";
 const loadWindowSize = 1.6;
 const filtersAll = ["#foot", "#bottomads"];
