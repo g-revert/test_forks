@@ -5,5 +5,5 @@ beeec.com
 lepta.net
 plist
 new code starts
-...
+new
 new code ends
